@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yousef Rashed!
 
-### 🚀 Backend Engineer & Engineering Graduate
+### 🚀 Backend Engineer 
 I specialize in building scalable, high-performance server-side applications. My expertise lies in architecting robust systems using **Node.js** and **.NET**, with a strong focus on clean code, secure authentication, and efficient database design.
 
 ---
