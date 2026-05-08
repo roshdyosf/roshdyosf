@@ -35,11 +35,9 @@ A comprehensive learning management system developed with **Node.js**, **Express
 ---
 
 ### 🔭 Currently Working On
-- ⚡ Deep diving into the **.NET ecosystem** and advanced **SQL Server** optimization.
+- ⚡ Deep diving into the **.NET ecosystem**.
 - 🏗️ Refining a **Micro-Social Network** architecture for optimized scalability.
 - 🔐 Implementing advanced **Auth** patterns (RBAC & Multi-factor) in my projects.
-
----
 
 ---
 
