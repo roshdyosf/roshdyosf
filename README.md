@@ -30,7 +30,7 @@ A robust API-driven content management system built with **Node.js** and **Mongo
 ---
 
 ### 🔭 Currently Working On
-- ⚡ Deep diving into the **.NET ecosystem** and **PostgreSQL** optimization.
+- ⚡ Deep diving into the **laravel ecosystem** and **PostgreSQL** optimization.
 - 🔐 Mastering advanced **OAuth 2.0** flows and secure identity management.
 - 🤖 Exploring **LLMs** (Large Language Models) to build smarter backend services.
 
