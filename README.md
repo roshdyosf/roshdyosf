@@ -18,6 +18,9 @@ I specialize in building scalable, high-performance server-side applications. My
 
 ### 🌟 Featured Projects
 
+#### 🛠️ [Job Portal](https://github.com/roshdyosf/Job-Portal#job-portal)
+A Laravel-based job portal application for posting job listings and receiving candidate applications with CV attachments.
+
 #### 🛠️ [NTS Project](https://github.com/roshdyosf/ntsPJ)
 A professional-grade management system built using **MVC architecture**. It features complex third-party integrations, including a secure **Stripe payment gateway**, designed for high reliability and seamless user transactions.
 
@@ -30,7 +33,6 @@ A robust API-driven content management system built with **Node.js** and **Mongo
 ---
 
 ### 🔭 Currently Working On
-- ⚡ Deep diving into the **laravel ecosystem** and **PostgreSQL** optimization.
 - 🔐 Mastering advanced **OAuth 2.0** flows and secure identity management.
 - 🤖 Exploring **LLMs** (Large Language Models) to build smarter backend services.
 
