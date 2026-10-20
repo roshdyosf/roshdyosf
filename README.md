@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=230&section=header&text=Yousef%20Rashed&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Backend%20Software%20Engineer&descSize=22&descAlignY=58" alt="Yousef Rashed" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=230&section=header&text=Yousef%20Rashed&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer&descSize=22&descAlignY=58" alt="Yousef Rashed" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=45&lines=APIs+that+don't+double-book+under+load;Redis+Lua+%C2%B7+PostgreSQL+%C2%B7+Row-Level+Locking;Laravel+%C2%B7+Node.js+%C2%B7+Go;Clean+Architecture+%C2%B7+DDD+%C2%B7+Event-Driven" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=860&height=48&lines=final+class+YousefRashed+implements+SoftwareEngineer;%24stack+%3D+%5B%27Laravel%27%2C+%27Node.js%27%2C+%27Go%27%2C+%27PostgreSQL%27%2C+%27Redis%27%5D%3B;return+%27APIs+that+never+double-book%27%3B" alt="Typing code"/>
 
 <br/>
 
@@ -21,7 +21,28 @@
 
 </div>
 
-<br/>
+```php
+<?php
+
+final class YousefRashed implements SoftwareEngineer
+{
+    public string $role = 'Software Engineer';
+
+    /** @var string[] */
+    public array $stack = ['Laravel', 'Node.js', 'Go', 'PostgreSQL', 'Redis', 'Kafka'];
+
+    public function builds(): string
+    {
+        return 'APIs that never double-book';
+    }
+
+    /** @return string[] */
+    public function principles(): array
+    {
+        return ['atomic over optimistic', 'spec before code', 'tests that try to break it'];
+    }
+}
+```
 
 ## ⚡ Who I Am
 
@@ -274,6 +295,8 @@ I'm open to **backend engineering** opportunities: APIs, concurrency-sensitive s
 
 <a href="https://www.linkedin.com/in/yousef-rashed-80286b2a3"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yosef22363033@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1100&color=A371F7&center=true&vCenter=true&width=860&height=48&lines=return+new+Collaboration(with%3A+%27you%27)%3B;%2F%2F+open+to+backend+opportunities" alt="Typing code"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=140&section=footer" alt="footer" width="100%"/>
 
