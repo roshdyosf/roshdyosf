@@ -263,10 +263,6 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=roshdyosf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=roshdyosf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshdyosf&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Contribution graph" width="100%"/>
-
 </div>
 
 ---
