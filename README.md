@@ -1,26 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=230&section=header&text=Yousef%20Rashed&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer&descSize=22&descAlignY=58" alt="Yousef Rashed" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=860&height=48&lines=final+class+YousefRashed+implements+SoftwareEngineer;%24stack+%3D+%5B%27Laravel%27%2C+%27Node.js%27%2C+%27Go%27%2C+%27PostgreSQL%27%2C+%27Redis%27%5D%3B;return+%27APIs+that+never+double-book%27%3B" alt="Typing code"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/yousef-rashed-80286b2a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:yosef22363033@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/roshdyosf?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-<img src="https://komarev.com/ghpvc/?username=roshdyosf&label=Views&color=A371F7&style=for-the-badge" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pest_Tests-130%2B-2EA043?style=flat-square" alt="130+ tests"/>
-<img src="https://img.shields.io/badge/API_Endpoints-45%2B-1F6FEB?style=flat-square" alt="45+ endpoints"/>
-<img src="https://img.shields.io/badge/DB_Tables_Designed-12-A371F7?style=flat-square" alt="12 tables"/>
-<img src="https://img.shields.io/badge/Larastan-Level_6-F0883E?style=flat-square" alt="Larastan level 6"/>
-<img src="https://img.shields.io/badge/Projects-6-DB61A2?style=flat-square" alt="6 projects"/>
-
-</div>
-
 ```php
 <?php
 
@@ -43,6 +20,23 @@ final class YousefRashed implements SoftwareEngineer
     }
 }
 ```
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yousef-rashed-80286b2a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yosef22363033@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/roshdyosf?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<img src="https://komarev.com/ghpvc/?username=roshdyosf&label=Views&color=A371F7&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pest_Tests-130%2B-2EA043?style=flat-square" alt="130+ tests"/>
+<img src="https://img.shields.io/badge/API_Endpoints-45%2B-1F6FEB?style=flat-square" alt="45+ endpoints"/>
+<img src="https://img.shields.io/badge/DB_Tables_Designed-12-A371F7?style=flat-square" alt="12 tables"/>
+<img src="https://img.shields.io/badge/Larastan-Level_6-F0883E?style=flat-square" alt="Larastan level 6"/>
+<img src="https://img.shields.io/badge/Projects-6-DB61A2?style=flat-square" alt="6 projects"/>
+
+</div>
 
 ## ⚡ Who I Am
 
@@ -73,7 +67,7 @@ When I design a system I start with the spec, the data model, and the failure ca
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## 🧰 Tech Stack
 
@@ -121,7 +115,7 @@ When I design a system I start with the spec, the data model, and the failure ca
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## 🏆 Flagship Project
 
@@ -166,7 +160,7 @@ flowchart LR
 | 🎫 **Event features** | Event-scoped gatekeepers, organizer-managed refunds, discount codes, and dynamic QR-code tickets. |
 | ✅ **Quality** | **130+ Pest tests** including concurrency scenarios, Larastan level 6, Laravel Pint, Docker Compose (app, PostgreSQL, Redis, scheduler), and OpenAPI docs via Scramble. |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## 🚀 More Projects
 
@@ -259,7 +253,7 @@ flowchart LR
     C --> Dl[Create Deal<br/>per order]
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## 📊 GitHub Activity
 
@@ -276,7 +270,7 @@ flowchart LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+---
 
 ## 🎓 Education and Learning
 
@@ -291,13 +285,13 @@ flowchart LR
 
 I'm open to **backend engineering** opportunities: APIs, concurrency-sensitive systems, and clean architecture.
 
+```php
+return new Collaboration(with: 'you'); // open to backend opportunities
+```
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yousef-rashed-80286b2a3"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yosef22363033@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1100&color=A371F7&center=true&vCenter=true&width=860&height=48&lines=return+new+Collaboration(with%3A+%27you%27)%3B;%2F%2F+open+to+backend+opportunities" alt="Typing code"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=140&section=footer" alt="footer" width="100%"/>
 
 </div>
