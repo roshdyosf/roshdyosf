@@ -26,7 +26,6 @@ final class YousefRashed implements SoftwareEngineer
 <a href="https://www.linkedin.com/in/yousef-rashed-80286b2a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:yosef22363033@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/roshdyosf?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-<img src="https://komarev.com/ghpvc/?username=roshdyosf&label=Views&color=A371F7&style=for-the-badge" alt="Profile views"/>
 
 <br/><br/>
 
