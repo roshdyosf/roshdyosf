@@ -1,190 +1,280 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yousef+Rashed+%F0%9F%91%8B;Backend+Software+Engineer;Laravel+%C2%B7+Node.js+%C2%B7+Go;I+build+APIs+that+don't+break+under+load" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=230&section=header&text=Yousef%20Rashed&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Backend%20Software%20Engineer&descSize=22&descAlignY=58" alt="Yousef Rashed" width="100%"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/yousef-rashed-80286b2a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:yosef22363033@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/roshdyosf?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-  <img src="https://komarev.com/ghpvc/?username=roshdyosf&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=45&lines=APIs+that+don't+double-book+under+load;Redis+Lua+%C2%B7+PostgreSQL+%C2%B7+Row-Level+Locking;Laravel+%C2%B7+Node.js+%C2%B7+Go;Clean+Architecture+%C2%B7+DDD+%C2%B7+Event-Driven" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/yousef-rashed-80286b2a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yosef22363033@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/roshdyosf?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<img src="https://komarev.com/ghpvc/?username=roshdyosf&label=Views&color=A371F7&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pest_Tests-130%2B-2EA043?style=flat-square" alt="130+ tests"/>
+<img src="https://img.shields.io/badge/API_Endpoints-45%2B-1F6FEB?style=flat-square" alt="45+ endpoints"/>
+<img src="https://img.shields.io/badge/DB_Tables_Designed-12-A371F7?style=flat-square" alt="12 tables"/>
+<img src="https://img.shields.io/badge/Larastan-Level_6-F0883E?style=flat-square" alt="Larastan level 6"/>
+<img src="https://img.shields.io/badge/Projects-6-DB61A2?style=flat-square" alt="6 projects"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## ⚡ Who I Am
 
-I'm a **backend software engineer** who enjoys the hard parts of server-side work: **concurrency, data consistency, secure authentication, and clean architecture**. I build RESTful APIs with **Laravel** and **Node.js**, I've built services in **Go**, and I care about the details that make a system trustworthy: atomic operations, idempotent payments, rate limiting, and tests that actually try to break things.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🔒 Security: OAuth 2.0, JWT, 2FA, Passkeys (WebAuthn), RBAC, policies
-- ⚡ Concurrency: Redis Lua scripts, distributed locking, row-level locking, ordered locks to avoid deadlocks
-- 🧱 Architecture: Domain-Driven Design, Clean Architecture, service layers, event-driven systems
-- 💳 Integrations: Stripe, Zoho CRM, WooCommerce, Cloudinary, Apache Kafka
-- ✅ Quality: Pest / PHPUnit, PHPStan (Larastan), Laravel Pint, GitHub Actions CI
+I'm a **backend engineer** who is drawn to the parts of server-side work where things can go wrong: **race conditions, inconsistent data, weak auth, leaky architecture**.
 
----
+I build RESTful APIs with **Laravel** and **Node.js**, I've built services in **Go**, and I like proving my systems hold up: atomic Redis operations, idempotent payments, rate limits per scope, and tests that deliberately try to break the happy path.
 
-## 🛠️ Tech Stack
+When I design a system I start with the spec, the data model, and the failure cases, and only then write code.
+
+</td>
+<td width="42%" valign="top">
+
+| | |
+|---|---|
+| 🎯 **Focus** | Backend, APIs, system design |
+| 🔐 **Security** | OAuth 2.0 · JWT · 2FA · WebAuthn |
+| ⚡ **Concurrency** | Redis Lua · row-level locks |
+| 🧱 **Architecture** | DDD · Clean Architecture |
+| 💳 **Integrations** | Stripe · Zoho CRM · WooCommerce |
+| 📨 **Messaging** | Apache Kafka |
+| 🎓 **Education** | B.Tech, CS specialization (2025) |
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=php,js,ts,go,cs,postgres&perline=10" alt="Languages"/>
-
-**Backend and Databases**
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,postgres,mysql,mongodb,redis,kafka&perline=10" alt="Backend and databases"/>
-
-**Frontend Exposure**
-
-<img src="https://skillicons.dev/icons?i=vue,tailwind,html,css&perline=10" alt="Frontend"/>
-
-**DevOps and Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,linux&perline=10" alt="DevOps and tools"/>
+<table>
+<tr>
+<td align="center" width="170"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=php,js,ts,go,cs&perline=10" alt="Languages"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,nodejs,express&perline=10" alt="Backend"/></td>
+</tr>
+<tr>
+<td align="center"><b>Data and Messaging</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=10" alt="Data"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend Exposure</b></td>
+<td><img src="https://skillicons.dev/icons?i=vue,tailwind,html,css&perline=10" alt="Frontend"/></td>
+</tr>
+<tr>
+<td align="center"><b>DevOps and Tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,linux&perline=10" alt="DevOps"/></td>
+</tr>
+</table>
 
 </div>
 
 <details>
-<summary><b>📚 Full skill breakdown</b></summary>
+<summary><b>📚 Expand the full skill map</b></summary>
 <br>
 
 | Area | What I work with |
 | --- | --- |
-| **Languages** | PHP 8, JavaScript (ES6+), TypeScript, Go, SQL, C# |
-| **Backend** | Laravel 12/13, Node.js, Express.js, Go (Chi), REST API design, MVC, Clean Architecture, DDD, event-driven architecture, background workers |
-| **Data** | PostgreSQL, MySQL, MongoDB (Mongoose), Redis, Eloquent ORM, transactions, row-level locking, query optimization |
-| **Concurrency and messaging** | Redis Lua scripts (atomic operations), distributed locking, Apache Kafka (KafkaJS) |
-| **Security and auth** | JWT, OAuth 2.0 (Google, Zoho CRM), Sanctum, 2FA, Passkeys (WebAuthn), RBAC, authorization policies, API rate limiting |
+| **Backend** | Laravel 12/13, Node.js, Express.js, Go (Chi), REST API design, MVC, Clean Architecture, DDD, event-driven architecture, background workers with retry handling |
+| **Data** | PostgreSQL, MySQL, MongoDB (Mongoose), Redis, Eloquent ORM, data modeling, transactions, row-level locking, query optimization |
+| **Concurrency** | Redis Lua scripts (atomic operations), distributed locking, ordered locking to avoid deadlocks |
+| **Security** | JWT, OAuth 2.0 (Google, Zoho CRM), Sanctum, 2FA, Passkeys (WebAuthn), RBAC, authorization policies, API rate limiting |
 | **Integrations and docs** | Stripe, Zoho CRM API, WooCommerce REST API, Cloudinary, OpenAPI (Scramble), Postman |
-| **Testing and quality** | Pest, PHPUnit, feature and unit testing, PHPStan (Larastan), Laravel Pint, GitHub Actions |
+| **Quality** | Pest, PHPUnit, feature and unit tests, PHPStan (Larastan), Laravel Pint, GitHub Actions CI |
 | **DevOps** | Git, GitHub, Docker, Docker Compose, Render |
-| **Frontend exposure** | Vue 3, Inertia.js, Blade, Pug, Tailwind CSS |
+| **Concepts** | OOP, SOLID, system design |
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🚀 Featured Projects
+## 🏆 Flagship Project
 
-### 🎟️ [High-Concurrency Ticketing API](https://github.com/roshdyosf/high-concurrency-ticketing-api)
+<div align="center">
 
-> An event-ticketing REST API engineered to **prevent double booking under heavy traffic**.
+### 🎟️ High-Concurrency Ticketing API
 
-<img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/PHP_8.5-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis_7-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Pest-F28D1A?style=flat-square&logo=pestphp&logoColor=white"/>
+**An event-ticketing REST API engineered so two people can never book the same seat.**
 
-- **Atomic multi-seat holds**: a Redis Lua script (all-or-nothing, 10-minute TTL) combined with a conditional PostgreSQL update inside a transaction, with sorted lock ordering to avoid deadlocks.
-- **Hybrid seating model**: specific seats or general admission, plus adjacent-seat auto-suggestion.
-- **Full spec authored from scratch**: 12 database tables, 45+ endpoints, role permissions, and order and refund state machines.
-- **Auth and access control**: Sanctum tokens, email verification, password reset, role-based middleware (customer, organizer, admin), ownership policies, and a global ban middleware that revokes active tokens.
-- **Redis-backed rate limiting** per scope: login (per IP and per email), booking, scanning, and public endpoints.
-- **Stripe payment lifecycle** *(in active development)*: idempotency keys, signed webhooks with duplicate-event protection, automatic refunds for late payments, and a scheduled job that releases expired holds.
-- **Event-scoped gatekeepers, organizer-managed refunds, discount codes, and dynamic QR-code tickets.**
-- **130+ Pest tests** (including concurrency scenarios), Larastan level 6, Laravel Pint, and a Docker Compose environment (app, PostgreSQL, Redis, scheduler). Interactive OpenAPI docs via Scramble.
+<a href="https://github.com/roshdyosf/high-concurrency-ticketing-api"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
----
+<img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/PHP_8.5-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis_7-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Pest-F28D1A?style=flat-square&logo=pestphp&logoColor=white"/>
 
-### 💰 [Family Eco: Household Finance Tracker](https://github.com/roshdyosf/fEco) &nbsp;·&nbsp; [🌐 Live Demo](https://feco.onrender.com/)
+</div>
 
-> A shared finance app where families jointly track income, expenses, and balance.
+### How a seat hold works
 
-<img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Pest-F28D1A?style=flat-square&logo=pestphp&logoColor=white"/>
+```mermaid
+flowchart LR
+    A([Customer requests N seats]) --> B[Sort seat IDs<br/>consistent lock order]
+    B --> C{{Redis Lua script<br/>all-or-nothing hold<br/>10 min TTL}}
+    C -- any seat taken --> X([Reject: nothing is held])
+    C -- all free --> D[(PostgreSQL<br/>conditional UPDATE<br/>inside a transaction)]
+    D -- conflict --> X
+    D -- success --> E[Order created<br/>awaiting payment]
+    E --> F[/Stripe payment/]
+    F -- confirmed --> G([Tickets issued<br/>QR codes])
+    F -- abandoned --> H[Scheduled job<br/>releases expired holds]
+    H --> X
+```
 
-- **Family isolation** through an invite-code join system; each family owns its own categories and transactions.
+### What's inside
+
+| | |
+|---|---|
+| ⚛️ **Atomic multi-seat holds** | A Redis Lua script (all-or-nothing, 10-minute TTL) combined with a conditional PostgreSQL update inside a transaction. Sorted lock ordering avoids deadlocks. |
+| 🪑 **Hybrid seating** | Specific seats or general admission, plus adjacent-seat auto-suggestion. |
+| 📐 **Spec-first design** | A technical specification covering **12 tables, 45+ endpoints**, role permissions, and order and refund state machines. |
+| 🔐 **Auth and access** | Sanctum tokens, email verification, password reset, role middleware (customer, organizer, admin), ownership policies, and a global ban middleware that revokes active tokens. |
+| 🚦 **Rate limiting** | Redis-backed, per scope: login (per IP and per email), booking, scanning, and public endpoints. |
+| 💳 **Stripe lifecycle** *(in active development)* | Idempotency keys, signed webhooks with duplicate-event protection, automatic refunds for late payments, and a job that releases expired holds. |
+| 🎫 **Event features** | Event-scoped gatekeepers, organizer-managed refunds, discount codes, and dynamic QR-code tickets. |
+| ✅ **Quality** | **130+ Pest tests** including concurrency scenarios, Larastan level 6, Laravel Pint, Docker Compose (app, PostgreSQL, Redis, scheduler), and OpenAPI docs via Scramble. |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🚀 More Projects
+
+### 💰 Family Eco: Household Finance Tracker
+
+<a href="https://github.com/roshdyosf/fEco"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://feco.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/></a>
+
+<img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pest-F28D1A?style=flat-square&logo=pestphp&logoColor=white"/>
+
+A shared finance app where families jointly track income, expenses, and balance, with every family isolated behind an invite-code join system.
+
 - **Atomic balance updates**: database transactions with row-level locking keep the balance correct under concurrent writes.
-- **Complete auth suite**: email verification, password reset, **Google OAuth 2.0**, **two-factor authentication with recovery codes**, and **passkey (WebAuthn) login**.
+- **Full auth suite**: email verification, password reset, **Google OAuth 2.0**, **two-factor auth with recovery codes**, and **passkey (WebAuthn) login**.
 - **RBAC** with Spatie Laravel Permission (family-head and family-member roles, seven permissions), a service-layer architecture, and Form Request validation.
-- **Quality pipeline**: Pest tests, PHPStan, Laravel Pint, and a GitHub Actions CI workflow.
+- **CI pipeline**: Pest, PHPStan, Laravel Pint, and GitHub Actions.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7f1026be-8f0e-4fac-90b4-87cc28e4e857" width="32%" alt="Family Eco dashboard"/>
-  <img src="https://github.com/user-attachments/assets/3026c65c-c5c6-4366-9417-29b289f9661b" width="32%" alt="Family Eco screen 2"/>
-  <img src="https://github.com/user-attachments/assets/9759935e-20e6-475d-a0b8-01d0b7250392" width="32%" alt="Family Eco screen 3"/>
+  <img src="https://github.com/user-attachments/assets/3026c65c-c5c6-4366-9417-29b289f9661b" width="32%" alt="Family Eco screen"/>
+  <img src="https://github.com/user-attachments/assets/9759935e-20e6-475d-a0b8-01d0b7250392" width="32%" alt="Family Eco screen"/>
 </div>
 
----
+<br/>
 
-### 📦 [Product Catalog API (Domain-Driven Design)](https://github.com/roshdyosf/Product-Catalog-DDD) &nbsp;·&nbsp; [🌐 Live API](https://product-catalog-ddd.onrender.com/api/v1/products)
+### 📦 Product Catalog API (Domain-Driven Design)
 
-> A microservice organized into strict DDD layers, publishing domain events to Kafka.
+<a href="https://github.com/roshdyosf/Product-Catalog-DDD"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://product-catalog-ddd.onrender.com/api/v1/products"><img src="https://img.shields.io/badge/Live_API-46E3B7?style=for-the-badge&logo=render&logoColor=black"/></a>
 
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-- **Layered design**: presentation, application, domain, and infrastructure, with repository interfaces and use cases.
-- **Event-driven**: publishes `product-created` events to Apache Kafka with KafkaJS.
-- **Production-minded API**: filtering, sorting, pagination, field selection, validation, centralized error handling, and rate limiting (100 requests per hour per IP).
-- **Shipped**: separate dev and prod Docker Compose files, deployed on Render, with a ready-to-use Postman collection.
+A microservice split into strict DDD layers that publishes a domain event to Kafka whenever a product is created.
 
----
+```mermaid
+flowchart LR
+    P[Presentation<br/>routes · controllers · validators] --> A[Application<br/>use cases]
+    A --> D[Domain<br/>entities · repository interfaces]
+    I[Infrastructure<br/>MongoDB · Kafka client] -. implements .-> D
+    A --> I
+    I --> K{{Kafka<br/>product-created}}
+```
 
-### 🔄 [Zoho WooCommerce Sync](https://github.com/roshdyosf/zoho-woo-sync)
+- Repository interfaces and use cases keep the domain free of framework code.
+- Filtering, sorting, pagination, field selection, validation, centralized error handling, and rate limiting (100 requests per hour per IP).
+- Separate dev and prod Docker Compose files, deployed on Render, with a Postman collection.
 
-> An integration that turns WooCommerce orders into Zoho CRM contacts and deals.
+<br/>
 
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/> <img src="https://img.shields.io/badge/Zoho_CRM_API_v8-E42527?style=flat-square&logo=zoho&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square"/>
+### 🎓 Content Management API (MAHD E-Learning Backend)
 
-- Fetches recent WooCommerce orders and authenticates with Zoho CRM through the **OAuth 2.0 refresh-token flow**.
-- Creates or resolves a Zoho contact from the customer details, then creates a **deal for each order**.
-- Triggered through a single endpoint (`GET /sync-orders`).
-
----
-
-### 🌍 [NTS: Tour Management and Booking Platform](https://github.com/roshdyosf/ntsPJ)
-
-> A full MVC web app and API for tours, bookings, users, and reviews.
-
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-
-- MVC backend with **filtering, sorting, pagination, and field limiting**.
-- **Stripe** payments and booking management, **JWT** authentication, role-based authorization.
-- Mongoose-backed **review and rating system**, data seeding scripts, and API docs (OpenAPI and a static web doc).
-
----
-
-### 🎓 [MAHD: Content Management and E-Learning Backend](https://github.com/roshdyosf/content-mangement-apis)
-
-> Backend for content and course management, built around Clean Architecture.
+<a href="https://github.com/roshdyosf/content-mangement-apis"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-- **Clean Architecture** decouples business logic from framework dependencies.
-- APIs for content and course management and student tracking, with global error-handling middleware.
+The backend behind the MAHD content and e-learning platform, built with **Clean Architecture** so business logic stays independent from framework dependencies.
 
----
+- APIs for **content and course management** and **student tracking**.
+- Global error-handling middleware for consistent API responses.
 
-## 📊 GitHub Stats
+<br/>
+
+### 🌍 NTS: Tour Management and Booking Platform
+
+<a href="https://github.com/roshdyosf/ntsPJ"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+A server-rendered booking platform and API for tours, bookings, users, and reviews.
+
+- MVC backend with filtering, sorting, pagination, and field limiting.
+- **Stripe** payments and booking management, **JWT** authentication, and role-based authorization.
+- Mongoose-backed review and rating system, seeding scripts, and API docs (OpenAPI and a static web doc).
+
+<br/>
+
+### 🔄 Zoho WooCommerce Sync
+
+<a href="https://github.com/roshdyosf/zoho-woo-sync"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/> <img src="https://img.shields.io/badge/Zoho_CRM_v8-E42527?style=flat-square&logo=zoho&logoColor=white"/>
+
+An integration that turns WooCommerce orders into Zoho CRM contacts and deals.
+
+```mermaid
+flowchart LR
+    T([GET /sync-orders]) --> W[WooCommerce<br/>REST API]
+    W --> Z[Zoho OAuth 2.0<br/>refresh-token flow]
+    Z --> C[Create or resolve<br/>Contact]
+    C --> Dl[Create Deal<br/>per order]
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=roshdyosf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshdyosf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=roshdyosf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub stats"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshdyosf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=roshdyosf&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=roshdyosf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=roshdyosf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshdyosf&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Contribution graph" width="100%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🎓 Education and Learning
 
-- **B.Tech in Industrial and Energy Technology** (Computer Science specialization), Faculty of Industrial Technology and Energy, graduated July 2025
-- **Full Stack Web Development using Python** (120 hrs), Information Technology Institute (ITI), 2024: OOP, PostgreSQL, Flask, Django
-- **Node.js, Express, MongoDB and More: The Complete Bootcamp** (42 hrs), Udemy, 2026
-- **AI and Python Fundamentals**, ITIDA
+| | |
+|---|---|
+| 🎓 **B.Tech, Industrial and Energy Technology** | Computer Science specialization · Faculty of Industrial Technology and Energy · July 2025 |
+| 🐍 **Full Stack Web Development using Python** | 120 hrs · Information Technology Institute (ITI) · 2024 · OOP, PostgreSQL, Flask, Django |
+| 🟢 **Node.js, Express, MongoDB and More** | 42 hrs · Udemy · 2026 |
+| 🤖 **AI and Python Fundamentals** | ITIDA |
 
----
+## 🤝 Let's Build Something
 
-## 🤝 Let's Connect
-
-I'm open to **backend engineering** opportunities where I can work on APIs, concurrency, and system design.
+I'm open to **backend engineering** opportunities: APIs, concurrency-sensitive systems, and clean architecture.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yousef-rashed-80286b2a3"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yosef22363033@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=140&section=footer" alt="footer" width="100%"/>
 
 </div>
